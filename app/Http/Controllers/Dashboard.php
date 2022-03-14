@@ -127,7 +127,6 @@ class Dashboard extends Controller
             'no_telp' => 'required|max:15',
             'jenis_kelamin' => 'required|max:9',
             'tanggal_lahir' => 'required|date',
-            'id_kelas' => 'required|max:10',
         ]
         );
 

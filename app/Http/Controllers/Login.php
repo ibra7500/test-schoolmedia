@@ -21,7 +21,7 @@ class Login extends Controller{
         if(Auth::attempt($request->only('email','password'))){
             return redirect()->route('dashboard');
         }    
-        return redirect()->route('/');
+        return redirect()->route('login')->with('error', 'Email atau Password salah!');
     }
 
     public function logout(){
