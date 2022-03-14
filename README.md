@@ -1,4 +1,4 @@
 Untuk akses admin, defaultnya adalah:
 
-email: adminschool@gmail.com
+email: adminschool@email.com <br>
 password: admin
