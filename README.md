@@ -1,4 +1,7 @@
-Untuk akses admin, defaultnya adalah:
+import database terlebih dahulu
 
-email: adminschool@gmail.com
+akun default untuk admin jika database sudah diimport: 
+
+
+email: adminschool@email.com
 password: admin
